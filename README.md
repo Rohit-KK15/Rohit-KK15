@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit-KK15?tab=repositories](https://github.com/Rohit-KK15?tab=repositories)
 
-- 👩‍💻Link to my Portfolio website: [https://rohitkeerthikanth.me](https://rohitkeerthikanth.me)
+- 👩‍💻Link to my Portfolio website: [https://rohitkeerthikanth.me](https://rohitkeerthikanth.netlify.app)
 
 - 📫 How to reach me **rohitkeerthikanth@gmail.com**
 
