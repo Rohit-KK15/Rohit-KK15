@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit KK</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Vue.js and Flutter**
+- 🌱 I’m currently learning **Solidity** and working on **AI Powered Defi Vault**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit-KK15?tab=repositories](https://github.com/Rohit-KK15?tab=repositories)
 
